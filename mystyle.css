@@ -1,0 +1,41 @@
+*{font-family: 'Jua', sans-serif;}
+.mytitle{
+    width: 300px;
+    height: 200px;
+
+    color:white;
+
+    text-align:center;
+
+    background-image: url("https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 10px;
+
+    padding-top:20px
+}
+.mybtn{
+    background-size: cover;
+    background-position: center;
+    background-color : rgb(185, 202, 89);
+    width:150px;
+    margin-left:85px;
+}
+.type{
+    background-size: cover;
+    background-position: center;
+    margin-left:60px;
+}
+.type2{
+    background-size: cover;
+    background-position: center;
+    margin-left:53px;
+}
+.wrap{
+    background-size: cover;
+    background-position: center;
+
+    width: 300px;
+    margin:auto;
+}
